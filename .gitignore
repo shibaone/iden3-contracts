@@ -11,3 +11,5 @@ cache
 artifacts
 migration-result.json
 events-data.json
+.openzeppelin/unknown-719.json
+scripts/deploy_output.json

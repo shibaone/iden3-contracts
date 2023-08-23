@@ -53,6 +53,16 @@ const config: HardhatUserConfig = {
         count: 20,
       },
     },
+    // puppynet: {
+    //   url: "https://puppynet.shibrpc.com",
+    //   chainId: 719,
+    //   accounts: ["private key here"],
+    // },
+    // shibarium: {
+    //   url: "https://www.shibrpc.com",
+    //   chainId: 109,
+    //   accounts: ["private key here"],
+    // },
   },
   gasReporter: {
     currency: "USD",
